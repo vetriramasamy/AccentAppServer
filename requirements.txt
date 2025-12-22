@@ -20,8 +20,10 @@ numpy==2.3.5
 openai-whisper==20250625
 pydantic==2.12.5
 pydantic_core==2.41.5
+python-multipart==0.0.21
 regex==2025.11.3
 requests==2.32.5
+six==1.17.0
 starlette==0.50.0
 sympy==1.14.0
 tiktoken==0.12.0
@@ -31,3 +33,5 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.6.2
 uvicorn==0.38.0
+whisper==1.1.10
+ffmpeg==8.0.1
