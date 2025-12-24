@@ -5,6 +5,8 @@ venv/
 # Temporary audio files
 temp/
 
+models/
+
 # Cache / IDE files
 __pycache__/
 *.pyc
